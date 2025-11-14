@@ -1,0 +1,10 @@
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Power BI
+*.pbix.backup
+*.pbix.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
